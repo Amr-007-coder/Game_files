@@ -1,0 +1,22 @@
+{
+    "levels": [
+        {
+            "lvl": 1,
+            "max": "False",
+            "value": 1.5,
+            "mine_dmg": 7.5,
+            "nextprice": 12
+        },
+        {
+            "lvl": 2,
+            "max": "False",
+            "value": 3,
+            "mine_dmg": 10,
+            "nextprice": 20
+        },
+        {
+            "lvl": 3,
+            "max": "True"
+        }
+    ]
+}
