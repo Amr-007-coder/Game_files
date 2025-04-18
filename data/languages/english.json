@@ -1,1 +1,17 @@
-{"menu": ["Browse", "Dev", "Quit", "back"]}
+{
+    "menu": ["Browse", "Dev", "Quit", "back"],
+    "Helps": {
+        "Delete Game": "Delete a game",
+        "menu": "Go back",
+        "mode": "Switch layout",
+        "Sort Games": "Sort sequence of games",
+        "Add Game": "Add a new game",
+        "lang": "Change language",
+        "Reset": "Reset EVERYTHING",
+        "info": "Show account information",
+        "Browse": "Browse through games",
+        "Dev": "Credits",
+        "Quit": "Leave",
+        "back": "Go back"
+    }
+}
