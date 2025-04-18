@@ -1,1 +1,17 @@
-{"menu": ["Entdecken", "Entwickler", "Schliessen", "zurueck"]}
+{
+    "menu": ["Entdecken", "Entwickler", "Schliessen", "zurueck"],
+    "Helps": {
+        "Delete Game": "Spiel loeschen",
+        "menu": "Zurueck",
+        "mode": "Layout-Modus aendern",
+        "Sort Games": "Spiele soriteren",
+        "Add Game": "Neues Spiel hinzufuegen",
+        "lang": "Sprache Wechseln",
+        "Reset": "ALLES zuruecksetzen",
+        "info": "Account Informationen anzeigen",
+        "Entdecken": "Spiele durchsuchen",
+        "Entwickler": "Credits",
+        "Schliessen": "Verlassen",
+        "zurueck": "Zurueck"
+    }
+}
