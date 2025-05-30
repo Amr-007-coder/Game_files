@@ -1,0 +1,29 @@
+{
+    "levels": [
+        {
+            "lvl": 1,
+            "max": false,
+            "value": 5.5,
+            "dash_speed": 9.5,
+            "nextprice": 8
+        },
+        {
+            "lvl": 2,
+            "max": false,
+            "value": 6,
+            "dash_speed": 10,
+            "nextprice": 15
+        },
+        {
+            "lvl": 3,
+            "max": false,
+            "value": 6.5,
+            "dash_speed": 10.5,
+            "nextprice": 25
+        },
+        {
+            "lvl": 4,
+            "max": true
+        }
+    ]
+}

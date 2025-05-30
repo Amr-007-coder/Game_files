@@ -1,0 +1,20 @@
+{
+    "skin1": {
+        "Owned": false,
+        "Price": 15
+    },
+    "skin2": {
+        "Owned": false,
+        "Price": 20
+    },
+    "other_skins": {
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "Price": 10
+    }
+}
